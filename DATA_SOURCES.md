@@ -436,6 +436,7 @@ The [Bhote Koshi event pack](public/events/bhote-koshi-2026/README.md), under `p
 | **Who's On First neighborhoods** (61,441 polygons)                          | `wof_neighborhoods/`              | Per source: CC BY, ODC-By, Open Government licences, CC0, PDDL, public domain (folder `ATTRIBUTION.md`)   | ✅ (attribution)                                 | "Neighborhood boundaries: Who's On First and contributors"; per-source credits in the folder |
 | **Yale Bright Star Catalogue** (9,096 stars, sky background)                | `sky/`                            | **Public domain**                                                                                         | ✅ (no restrictions)                             | "Yale Bright Star Catalogue (Hoffleit & Warren, via CDS)" (courtesy credit) |
 | **ESO Milky Way panorama** (eso0932a, blurred cube map, sky background)     | `sky/`                            | **CC BY 4.0**                                                                                             | ✅ (attribution; changes stated)                 | "ESO/S. Brunier"                                                            |
+| **Wildlife atlas** (whale and bird migration routes; bee, wasp, hornet, wolf and bear ranges; live-camera locations) | `wildlife/` | Compiled summary of published facts; country points from Natural Earth (**public domain**) via world-atlas | ✅ | "Wildlife routes and ranges" (in-app credit) |
 | **CCTV ground heights** (3,445 cameras)                                     | `cctv_ground_heights/`            | Precomputed camera placement heights, aligned to work with Google Photorealistic 3D Tiles (folder README) | —                                                | —                                                                           |
 | **CCTV Camera Database** model-enrichment extract v2.26.0 + v2.29.0 (20 CCTV and 15 ALPR camera-model records) | `src/layers/cctv/modelSpecs.js`, `src/layers/alpr/modelSpecs.js` | **CC0-1.0** (public domain dedication) | ✅ (no restrictions) | "Specs: cctv-database.com" (courtesy — not legally required) |
 
@@ -577,6 +578,35 @@ itself.
 
 Sources, licences, the changes CC BY asks to state, hashes and build commands
 are in [`sky/README.md`](src/data/local_data/sky/README.md).
+
+### Wildlife atlas (`wildlife/`)
+
+Five GeoJSON Lines files back the **Wildlife** layer group: `whales.geojsonl`,
+`birds.geojsonl`, `insects.geojsonl` (bees, wasps and hornets), `wolves.geojsonl`
+and `bears.geojsonl`. They are bundled; nothing is fetched at runtime and no key is
+needed.
+
+- **Routes** (whales, birds) are hand-simplified corridors drawn from published
+  tracking and photo-identification studies (for example Egevang et al. 2010 on Arctic
+  terns, Mate et al. 2015 on western gray whales, Double et al. 2014 on pygmy blue
+  whales) and from NOAA Fisheries, IWC and BirdLife flyway descriptions. They are for
+  orientation, not navigation.
+- **Ranges** (bees, wasps and hornets; wolves; bears) are summarised per country from
+  IUCN Red List assessments and standard references (Michener 2007; Mech & Boitani
+  2003). Each country is one point listing the groups that live there or were lost
+  there. A listed country means the animal occurs somewhere in it, not across all of
+  it. Country points are area centroids of Natural Earth admin-0 polygons (public
+  domain), via the world-atlas 110m package.
+- **Live cameras** are points at each broadcaster's location with links to the public
+  stream pages; some positions are approximate and say so. The cameras' content
+  belongs to their broadcasters and is not bundled.
+
+Population figures and recent events are approximate and change between surveys.
+See the folder's `README.md` for the per-file contents. The files are generated
+deterministically from the five standalone atlas pages by
+`scripts/build-wildlife-data.mjs`.
+
+---
 
 ### DataSF Analysis Neighborhoods (`neighborhoods/`)
 

@@ -51,6 +51,11 @@ export const LAYER_NAME_KEYS = Object.freeze({
   'alpr-cameras': msg('ALPR Cameras'),
   'sea-marks': msg('Sea Marks'),
   'ski-pistes': msg('Ski Pistes'),
+  'wildlife-whales': msg('Whale Migration'),
+  'wildlife-birds': msg('Bird Migration'),
+  'wildlife-insects': msg('Bees, Wasps & Hornets'),
+  'wildlife-wolves': msg('Wolves'),
+  'wildlife-bears': msg('Bears'),
 });
 
 /** The layer panel's own English names, where they differ from the module's. */

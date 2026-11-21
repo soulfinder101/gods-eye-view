@@ -469,7 +469,8 @@ const layers = [
 
 /**
  * Catalog layers deliberately outside voice, with the reason. The Bhote Koshi
- * pair belong to a scripted scene and are driven by `control_scene`.
+ * pair belong to a scripted scene and are driven by `control_scene`. The
+ * wildlife layers stay out so the Realtime prompt keeps within its budget.
  */
 export const VOICE_OFF_LAYERS = Object.freeze({
   'bhote-koshi-2026': 'scene-driven event layer (control_scene)',
@@ -484,6 +485,11 @@ export const VOICE_OFF_LAYERS = Object.freeze({
   'wildlife-sightings':
     'community observation layer; no room in the prompt budget',
   rail: 'train layer; no room in the prompt budget, and "trains" still names transit',
+  'wildlife-whales': 'bundled wildlife layer (layer panel only)',
+  'wildlife-birds': 'bundled wildlife layer (layer panel only)',
+  'wildlife-insects': 'bundled wildlife layer (layer panel only)',
+  'wildlife-wolves': 'bundled wildlife layer (layer panel only)',
+  'wildlife-bears': 'bundled wildlife layer (layer panel only)',
 });
 
 const TYPE_NAMES = Object.freeze({

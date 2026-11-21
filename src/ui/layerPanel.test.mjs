@@ -54,7 +54,19 @@ test('Wildlife follows Events and precedes Weather', () => {
   assert.equal(order[wildlife].label, 'Wildlife');
   // News is the last of Events.
   assert.equal(order[wildlife - 1].id, 'news');
-  assert.equal(order[wildlife + 1].id, 'air-quality');
+  // The bundled wildlife atlas layers follow the sightings layer in the same group.
+  const atlas = [
+    'wildlife-whales',
+    'wildlife-birds',
+    'wildlife-insects',
+    'wildlife-wolves',
+    'wildlife-bears',
+  ];
+  assert.deepEqual(
+    order.slice(wildlife + 1, wildlife + 1 + atlas.length).map(({ id }) => id),
+    atlas,
+  );
+  assert.equal(order[wildlife + 1 + atlas.length].id, 'air-quality');
   assert.equal(order.filter(({ id }) => id === 'wildlife-sightings').length, 1);
 });
 

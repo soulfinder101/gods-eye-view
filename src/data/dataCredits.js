@@ -566,6 +566,10 @@ export const DATA_CREDITS = [
     html: 'Cyclone advisories: <a href="https://www.nhc.noaa.gov/" target="_blank" rel="noopener">NOAA/NWS NHC / CPHC</a> · Atlantic and eastern/central North Pacific; <a href="https://www.metoc.navy.mil/jtwc/jtwc.html" target="_blank" rel="noopener">Joint Typhoon Warning Center</a> · western North Pacific, North Indian Ocean, Southern Hemisphere. The NHC cone is forecast center uncertainty, not storm size.',
   },
   {
+    key: 'wildlife-atlas',
+    html: 'Wildlife routes and ranges: compiled from published tracking studies, IUCN Red List assessments, NOAA Fisheries, BirdLife International and Cornell Lab of Ornithology. Routes are simplified corridors and ranges are country-level. Live cameras link to their broadcasters.',
+  },
+  {
     key: 'weather-lightning',
     html: 'Lightning density: NOAA/NWS nowCOAST · derived from Vaisala NLDN/GLD360. <a href="https://ocean.weather.gov/lightning/lightning_pdd.php" target="_blank" rel="noopener">Public derived density product</a>, not raw detections.',
   },

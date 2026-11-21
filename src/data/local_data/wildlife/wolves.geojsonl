@@ -1,0 +1,108 @@
+{"type":"Feature","geometry":{"type":"Point","coordinates":[34.753,-6.258]},"properties":{"name":"Tanzania · wolves","Here today":"African golden wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-12.138,24.291]},"properties":{"name":"W. Sahara · wolves","Here today":"African golden wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-106,57]},"properties":{"name":"Canada · wolves","Here today":"Arctic wolf, Northwestern wolf, Great Plains & Great Lakes wolf, Eastern wolf, Coastal (sea) wolf, Hudson Bay & Labrador wolves"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.5,39.5]},"properties":{"name":"United States of America · wolves","Here today":"Northwestern wolf, Great Plains & Great Lakes wolf, Coastal (sea) wolf, Mexican wolf, Red wolf","Lost here":"Eastern wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.285,48.192]},"properties":{"name":"Kazakhstan · wolves","Here today":"Eurasian wolf, Steppe wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[63.203,41.749]},"properties":{"name":"Uzbekistan · wolves","Here today":"Eurasian wolf, Steppe wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[144.332,-6.646]},"properties":{"name":"Papua New Guinea · wolves","Related":"Dingo & New Guinea singing dog"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[117,-1]},"properties":{"name":"Indonesia · wolves","Related":"Dingo & New Guinea singing dog"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-65.149,-35.22]},"properties":{"name":"Argentina · wolves","Related":"Maned wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[45.727,4.752]},"properties":{"name":"Somalia · wolves","Here today":"African golden wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[37.791,0.596]},"properties":{"name":"Kenya · wolves","Here today":"African golden wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[29.863,15.991]},"properties":{"name":"Sudan · wolves","Here today":"African golden wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[18.582,15.329]},"properties":{"name":"Chad · wolves","Here today":"African golden wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[96,62]},"properties":{"name":"Russia · wolves","Here today":"Eurasian wolf, Tundra wolf, Steppe wolf, Caucasian wolf, Mongolian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[9,61.5]},"properties":{"name":"Norway · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-41,72]},"properties":{"name":"Greenland · wolves","Here today":"Arctic wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-102.576,23.935]},"properties":{"name":"Mexico · wolves","Here today":"Mexican wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-53.054,-10.807]},"properties":{"name":"Brazil · wolves","Related":"Maned wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-64.641,-16.729]},"properties":{"name":"Bolivia · wolves","Related":"Maned wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.392,-9.192]},"properties":{"name":"Peru · wolves","Related":"Maned wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[2.5,46.6]},"properties":{"name":"France · wolves","Here today":"Italian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-14.51,14.354]},"properties":{"name":"Senegal · wolves","Here today":"African golden wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-3.543,17.268]},"properties":{"name":"Mali · wolves","Here today":"African golden wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-10.326,20.209]},"properties":{"name":"Mauritania · wolves","Here today":"African golden wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[9.325,17.345]},"properties":{"name":"Niger · wolves","Here today":"African golden wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[7.995,9.548]},"properties":{"name":"Nigeria · wolves","Here today":"African golden wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-1.776,12.312]},"properties":{"name":"Burkina Faso · wolves","Here today":"African golden wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[35.005,31.486]},"properties":{"name":"Israel · wolves","Here today":"Arabian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[35.273,31.94]},"properties":{"name":"Palestine · wolves","Here today":"Arabian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-15.432,13.475]},"properties":{"name":"Gambia · wolves","Here today":"African golden wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[9.535,34.173]},"properties":{"name":"Tunisia · wolves","Here today":"African golden wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[2.598,28.185]},"properties":{"name":"Algeria · wolves","Here today":"African golden wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[36.78,31.246]},"properties":{"name":"Jordan · wolves","Here today":"Arabian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[54.206,23.868]},"properties":{"name":"United Arab Emirates · wolves","Lost here":"Arabian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[51.184,25.322]},"properties":{"name":"Qatar · wolves","Lost here":"Arabian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[47.6,29.308]},"properties":{"name":"Kuwait · wolves","Lost here":"Arabian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[43.757,33.037]},"properties":{"name":"Iraq · wolves","Here today":"Indian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[56.098,20.581]},"properties":{"name":"Oman · wolves","Here today":"Arabian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[127.165,40.143]},"properties":{"name":"North Korea · wolves","Lost here":"Mongolian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[127.821,36.428]},"properties":{"name":"South Korea · wolves","Lost here":"Mongolian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[102.946,46.824]},"properties":{"name":"Mongolia · wolves","Here today":"Mongolian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[79.593,22.925]},"properties":{"name":"India · wolves","Here today":"Himalayan wolf, Indian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[90.473,27.428]},"properties":{"name":"Bhutan · wolves","Here today":"Himalayan wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[84.013,28.239]},"properties":{"name":"Nepal · wolves","Here today":"Himalayan wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[69.414,29.974]},"properties":{"name":"Pakistan · wolves","Here today":"Indian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[66.087,33.856]},"properties":{"name":"Afghanistan · wolves","Here today":"Indian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[71.034,38.583]},"properties":{"name":"Tajikistan · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[74.621,41.507]},"properties":{"name":"Kyrgyzstan · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[59.275,39.091]},"properties":{"name":"Turkmenistan · wolves","Here today":"Steppe wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[54.286,32.519]},"properties":{"name":"Iran · wolves","Here today":"Caucasian wolf, Indian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[45,40.217]},"properties":{"name":"Armenia · wolves","Here today":"Caucasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[16.596,62.812]},"properties":{"name":"Sweden · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[27.981,53.506]},"properties":{"name":"Belarus · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[31.23,49.149]},"properties":{"name":"Ukraine · wolves","Here today":"Eurasian wolf, Steppe wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[19.311,52.148]},"properties":{"name":"Poland · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[14.075,47.614]},"properties":{"name":"Austria · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[19.358,47.2]},"properties":{"name":"Hungary · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[28.41,47.203]},"properties":{"name":"Moldova · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[24.943,45.857]},"properties":{"name":"Romania · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[23.88,55.284]},"properties":{"name":"Lithuania · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[24.832,56.807]},"properties":{"name":"Latvia · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[25.825,58.644]},"properties":{"name":"Estonia · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[10.288,51.134]},"properties":{"name":"Germany · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[25.195,42.753]},"properties":{"name":"Bulgaria · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[22.564,39.342]},"properties":{"name":"Greece · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[35.392,38.991]},"properties":{"name":"Turkey · wolves","Here today":"Eurasian wolf, Caucasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[20.032,41.142]},"properties":{"name":"Albania · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[16.567,45.016]},"properties":{"name":"Croatia · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[8.118,46.792]},"properties":{"name":"Switzerland · wolves","Here today":"Italian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[5.966,49.765]},"properties":{"name":"Luxembourg · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[4.582,50.652]},"properties":{"name":"Belgium · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[5.512,52.298]},"properties":{"name":"Netherlands · wolves","Here today":"Eurasian wolf","Related":"Wolfdog breeds"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-8.056,39.634]},"properties":{"name":"Portugal · wolves","Here today":"Iberian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-3.617,40.349]},"properties":{"name":"Spain · wolves","Here today":"Iberian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-8.01,53.181]},"properties":{"name":"Ireland · wolves","Lost here":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[134.376,-25.561]},"properties":{"name":"Australia · wolves","Related":"Dingo & New Guinea singing dog"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.865,36.609]},"properties":{"name":"China · wolves","Here today":"Mongolian wolf, Himalayan wolf","Related":"Wolfdog breeds"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[12.219,43.472]},"properties":{"name":"Italy · wolves","Here today":"Italian wolf","Related":"Wolfdog breeds"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[9.311,56.22]},"properties":{"name":"Denmark · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.658,53.884]},"properties":{"name":"United Kingdom · wolves","Lost here":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[47.68,40.281]},"properties":{"name":"Azerbaijan · wolves","Here today":"Caucasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[43.482,42.162]},"properties":{"name":"Georgia · wolves","Here today":"Caucasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[14.938,46.125]},"properties":{"name":"Slovenia · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[26.211,64.504]},"properties":{"name":"Finland · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[19.508,48.727]},"properties":{"name":"Slovakia · wolves","Here today":"Eurasian wolf","Related":"Wolfdog breeds"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[15.334,49.775]},"properties":{"name":"Czechia · wolves","Here today":"Eurasian wolf","Related":"Wolfdog breeds"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[38.678,15.427]},"properties":{"name":"Eritrea · wolves","Here today":"African golden wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[138.5,36.5]},"properties":{"name":"Japan · wolves","Lost here":"Japanese wolves (extinct)"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-58.387,-23.248]},"properties":{"name":"Paraguay · wolves","Related":"Maned wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[47.535,15.913]},"properties":{"name":"Yemen · wolves","Here today":"Arabian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[44.516,24.123]},"properties":{"name":"Saudi Arabia · wolves","Here today":"Arabian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-8.421,29.886]},"properties":{"name":"Morocco · wolves","Here today":"African golden wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[29.845,26.507]},"properties":{"name":"Egypt · wolves","Here today":"Arabian wolf, African golden wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[17.974,26.997]},"properties":{"name":"Libya · wolves","Here today":"African golden wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[39.551,8.654]},"properties":{"name":"Ethiopia · wolves","Here today":"African golden wolf, Ethiopian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[42.498,11.773]},"properties":{"name":"Djibouti · wolves","Here today":"African golden wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[46.23,9.758]},"properties":{"name":"Somaliland · wolves","Here today":"African golden wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[17.816,44.181]},"properties":{"name":"Bosnia and Herz. · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[21.698,41.606]},"properties":{"name":"Macedonia · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[20.819,44.233]},"properties":{"name":"Serbia · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[19.286,42.789]},"properties":{"name":"Montenegro · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[20.896,42.58]},"properties":{"name":"Kosovo · wolves","Here today":"Eurasian wolf"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.85,47.9]},"properties":{"name":"Live: International Wolf Center cams +1","Type":"Live wolf camera","Location":"International Wolf Center, Ely, Minnesota","Live video":"International Wolf Center cams: https://wolf.org/wolves/webcams/webcam.asp | Wolf Cam 2 on explore.org: https://explore.org/livecams/international-wolf-center/wolf-cam-2","About":"Ambassador gray wolves in a 1.25-acre forest enclosure with dens and a pond. A second view of the Ely exhibit pack, hosted by explore.org."}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.56,41.25]},"properties":{"name":"Live: Ambassador wolf cam +1","Type":"Live wolf camera","Location":"Wolf Conservation Center, South Salem, New York","Live video":"Ambassador wolf cam: https://nywolf.org/meet-our-wolves/webcams/webcam-ambassador-wolves-nikai-and-silas/ | Red wolf enclosure & den cam: https://hdontap.com/stream/260805/red-wolves-enclosure-and-den-new-york-live-cam/partners","About":"The centre's ambassador gray wolves. Its other cams cover Mexican and red wolves in its breeding programme. Critically endangered red wolves in the Species Survival Plan, including the den during pupping season."}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.25,35.92]},"properties":{"name":"Live: Red Wolf Center cams","Type":"Live wolf camera","Location":"Red Wolf Center, Columbia, North Carolina","Live video":"Red Wolf Center cams: https://ncwf.org/live-cams/","About":"Live views into the enclosure and den at the Red Wolf Center near the wild reintroduction area."}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.6,33.08]},"properties":{"name":"Live: California Wolf Center cam","Type":"Live wolf camera","Location":"California Wolf Center, Julian, California","Map position":"Approximate","Live video":"California Wolf Center cam: https://www.californiawolfcenter.org/webcam","About":"Mexican gray wolves held for the recovery programme."}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.63,38.5]},"properties":{"name":"Live: Endangered Wolf Center live streams","Type":"Live wolf camera","Location":"Endangered Wolf Center, Eureka, Missouri","Live video":"Endangered Wolf Center live streams: https://www.endangeredwolfcenter.org/zoolife/","About":"Maned wolves and other endangered canids. Some streams need a zoolife membership."}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.83,44.46]},"properties":{"name":"Live: Yellowstone webcams","Type":"Live wolf camera","Location":"Old Faithful, Yellowstone National Park","Live video":"Yellowstone webcams: https://www.nps.gov/yell/learn/photosmultimedia/webcams.htm","About":"Park webcams such as Old Faithful. Wild wolves are rare on camera, but packs have been filmed walking the boardwalks."}}
