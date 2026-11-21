@@ -55,6 +55,12 @@ const isTestSupport = (file) =>
   file.startsWith('src/tooling/') ||
   TEST_ONLY.has(file);
 const isAdapter = (file) => file.startsWith('src/render/cesium/');
+/**
+ * The Firebase Data Connect SDK is generated code, installed as a local
+ * package (`file:src/dataconnect-generated`) and kept as the generator wrote
+ * it, CommonJS build included; it never reaches Cesium.
+ */
+const isGenerated = (file) => file.startsWith('src/dataconnect-generated/');
 
 /**
  * The two places outside the adapter that name it by design, each limited
@@ -96,7 +102,10 @@ const tracked = git(
   .filter(Boolean);
 const runtimeFiles = tracked.filter(
   (file) =>
-    /\.(?:[cm]?js|vue)$/.test(file) && !isTestSupport(file) && !isAdapter(file),
+    /\.(?:[cm]?js|vue)$/.test(file) &&
+    !isTestSupport(file) &&
+    !isAdapter(file) &&
+    !isGenerated(file),
 );
 
 /**
