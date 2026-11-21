@@ -3066,5 +3066,11 @@
   "ESC to dismiss": "ESC — приховати",
   "Tip: the GEV MIC button in the dock lets you talk to the map.": "Порада: кнопка МІК у доку дає змогу говорити з картою.",
   "Malformed cyclone snapshot": "Некоректний знімок циклонів",
-  "Cyclone request timed out": "Минув час очікування запиту циклонів"
+  "Cyclone request timed out": "Минув час очікування запиту циклонів",
+  "Whale Migration": "Міграція китів",
+  "Bird Migration": "Міграція птахів",
+  "Bees, Wasps & Hornets": "Бджоли, оси та шершні",
+  "Wolves": "Вовки",
+  "Bears": "Ведмеді",
+  "Wildlife": "Дика природа"
 }

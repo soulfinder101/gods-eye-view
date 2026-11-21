@@ -31,6 +31,8 @@ import { createApplicationGhostMaps } from './layers/ghostMaps.js';
 import { createApplicationCables } from './layers/submarineCables.js';
 import { createApplicationStreetLevel } from './layers/streetLevel.js';
 import { createInfrastructureLayers } from '../data/infrastructure.js';
+import { createWildlifeLayers } from '../data/wildlife.js';
+import { WILDLIFE_LAYER_IDS } from '../sources/wildlifeData.js';
 import { localGeoJsonServices } from './localGeojsonServices.js';
 import { createBhoteKoshiEventLayer } from '../data/bhoteKoshiEvent.js';
 import { createBhoteKoshiLocatorLayer } from '../data/bhoteKoshiLocator.js';
@@ -38,9 +40,14 @@ import { createBhoteKoshiLocatorLayer } from '../data/bhoteKoshiLocator.js';
 /**
  * Hardware-local layers are registered like any other but never enter share
  * links or stored layer state: another browser cannot have this receiver.
+ * The bundled wildlife layers are local too: they hold no published share-link
+ * token, so they never claim one the upstream ledger may assign later.
  */
 export const LOCAL_ONLY_LAYER_METADATA = Object.freeze([
   Object.freeze({ id: 'local-adsb', disposition: 'local-only' }),
+  ...WILDLIFE_LAYER_IDS.map((id) =>
+    Object.freeze({ id, disposition: 'local-only' }),
+  ),
 ]);
 
 /** Serialization metadata for every layer the application catalog constructs. */
@@ -169,6 +176,7 @@ export function createApplicationCatalog({
         }),
         createCyclonesLayer({ feed: sources.cyclones }),
         ...createInfrastructureLayers(localGeoJsonServices),
+        ...createWildlifeLayers(localGeoJsonServices),
         createApplicationCables({ source: sources.cables }),
         createApplicationFirms({
           surface,

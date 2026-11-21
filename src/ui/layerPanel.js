@@ -88,6 +88,16 @@ const PANEL_GROUPS = [
     ],
   },
   {
+    label: msg('Wildlife'),
+    ids: [
+      'wildlife-whales',
+      'wildlife-birds',
+      'wildlife-insects',
+      'wildlife-wolves',
+      'wildlife-bears',
+    ],
+  },
+  {
     label: msg('Utilities'),
     ids: ['directions', 'radio'],
   },
